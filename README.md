@@ -2,7 +2,7 @@
 
 ## About me
 
-- I'm a Developer Intern at Prefeitura Municipal de São Leopoldo
+- I'm a Web Developer Intern at Prefeitura Municipal de São Leopoldo
 
 - Currently studying System Analysis and Development at Unisinos
 
