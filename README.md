@@ -1,35 +1,59 @@
-<h2 align="center">Hi! My name is Luann Muryell Ribeiro and welcome to my GitHub profile 👋</h2>
-
-## About me
-
-- I'm a Web Developer Intern at Prefeitura Municipal de São Leopoldo
-
-- Currently studying System Analysis and Development at Unisinos
-
-## GitHub Stats
+<h2 align="center">Hi! I'm Luann Muryell Ribeiro 👋</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luannmuryell&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannmuryell&layout=compact&langs_count=8&theme=dark"/>
+  Web Developer Intern focused on building end-to-end web applications — from database modeling to back-end logic and front-end interfaces.<br/>
+  Currently interning at São Leopoldo City Hall while pursuing a degree in Systems Analysis and Development at Unisinos.
 </p>
 
-## Tech Stack I've been studying and working with:
+---
+
+## 👨‍💻 About me
+
+- 🏛️ Web Development Intern at **São Leopoldo City Hall**
+- 🎓 Studying **Systems Analysis and Development** at Unisinos
+- 🌍 São Leopoldo, Rio Grande do Sul — Brazil
+
+---
+
+## 🎯 Goals & current learning
+
+- Currently learning TypeScript and applying static typing in web development
+- Growing within the **Vue.js + Laravel + Inertia.js** ecosystem
+- Studying best practices for project versioning
+- Working towards a mid-level developer position
+
+---
+
+## 🛠️ Main stack
+
+**Languages**
+ 
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+ 
+**Frameworks & Libraries**
+ 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+ 
+**Frontend**
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+ 
+**Database & Tools**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📬 Contact
 
 <p>
-  <img align="center" width="45" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP-Icon"/>
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS-Icon"/>
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel-Icon"/>
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js-Icon"/>
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5-Icon"/>
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3-Icon"/>
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS-Icon"/>
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" alt="Vuetify-Icon"/>
-  <img align="center" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode-Icon"/>
-  <img align="center" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL-Icon"/>
+  <a href="mailto:luannmuryellr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/luannribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/luannmuryell/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
-## Links
-
-<a href="mailto:luannmuryellr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-Badge"></a>
-<a href="https://www.linkedin.com/in/luannribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-Badge"></a>
-<a href="https://www.instagram.com/luannmuryell/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-Badge"></a>
