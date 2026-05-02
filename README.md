@@ -2,7 +2,7 @@
 
 <p align="center">
   Web Developer Intern helping to build full-stack applications — from database modeling to back-end logic and front-end interfaces.<br/>
-  I am currently doing an internship at the City Hall of São Leopoldo studying Systems Analysis and Development at Unisinos.
+  I am currently doing an internship at the City Hall of São Leopoldo and studying Systems Analysis and Development at Unisinos.
 </p>
 
 ---
@@ -15,11 +15,11 @@
 
 ---
 
-## 🎯 Goals & current learning
+## 🎯 What I'm working on
 
-- Currently learning TypeScript and PHP
-- Studying the **Vue.js + Laravel + Inertia.js** ecosystem
-- Trying to become a better developer every day
+- Learning TypeScript and PHP
+- Studying the **Vue.js + Laravel + Inertia.js** stack
+- Working to become a better developer every day
 
 ---
 
