@@ -1,8 +1,8 @@
 <h2 align="center">Hi! I'm Luann Muryell Ribeiro 👋</h2>
 
 <p align="center">
-  Web Developer Intern focused on building end-to-end web applications — from database modeling to back-end logic and front-end interfaces.<br/>
-  Currently interning at São Leopoldo City Hall while pursuing a degree in Systems Analysis and Development at Unisinos.
+  Web Developer Intern helping to build full-stack applications — from database modeling to back-end logic and front-end interfaces.<br/>
+  I am currently doing an internship at the City Hall of São Leopoldo studying Systems Analysis and Development at Unisinos.
 </p>
 
 ---
@@ -17,10 +17,9 @@
 
 ## 🎯 Goals & current learning
 
-- Currently learning TypeScript and applying static typing in web development
-- Growing within the **Vue.js + Laravel + Inertia.js** ecosystem
-- Studying best practices for project versioning
-- Working towards a mid-level developer position
+- Currently learning TypeScript and PHP
+- Studying the **Vue.js + Laravel + Inertia.js** ecosystem
+- Trying to become a better developer every day
 
 ---
 
